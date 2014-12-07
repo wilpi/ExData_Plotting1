@@ -15,7 +15,6 @@ one household with a one-minute sampling rate over a period of almost
 4 years. Different electrical quantities and some sub-metering values
 are available.
 
-
 The following descriptions of the 9 variables in the dataset are taken
 from
 the <a href="https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption">UCI
@@ -34,10 +33,6 @@ web site</a>:
 </ol>
 
 ## Loading the data
-
-
-
-
 
 When loading the dataset into R, please consider the following:
 
@@ -106,7 +101,6 @@ The four plots that you will need to construct are shown below.
 ### Plot 3
 
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
-
 
 ### Plot 4
 
